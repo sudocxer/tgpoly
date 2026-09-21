@@ -362,7 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# tgpoly bot (Python) — runtime secrets and generated game data (см. docs/monopoly-bot-spec.md п.10)
+# tgpoly bot (Python) — секреты и сохранённый список чатов
 .env
 data/
 .venv/
